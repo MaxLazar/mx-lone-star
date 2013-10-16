@@ -1,0 +1,14 @@
+  .mxCheckBox{
+	background:url("../images/star_s.png") no-repeat 0 bottom;
+	display: block;
+    height:16px;
+	width:16px;
+	clear: left;
+	float: left;
+	overflow: hidden;
+    }
+
+    .mxCheckBox.checked {
+		background-position:top right;
+
+    }

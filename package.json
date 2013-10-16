@@ -1,0 +1,15 @@
+{
+        "schema_version": "1.0",
+        "name" : "mx_lonestar",
+        "label": "MX LoneStar",
+        "version": "1.2.0",
+        "types": ["fieldtype"],
+        "paths": {
+                "system": [
+                        "system/expressionengine/third_party/mx_lonestar"
+                ],
+                "themes": [
+                        "themes/third_party/mx_lonestar"
+                ]
+        }
+}
